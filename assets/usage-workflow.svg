@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220"><rect x="0" y="0" width="960" height="220" fill="#FAF6EF" stroke="#B23A2E" stroke-width="2" rx="18"/>
+<text x="480" y="50" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#B23A2E" font-weight="bold" text-anchor="middle">三步玩转类型挑战</text>
+<rect x="40" y="80" width="260" height="110" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<circle cx="82" cy="112" r="20" fill="#B23A2E"/>
+<text x="82" y="120" font-family="Noto Sans CJK SC, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold" text-anchor="middle">1</text>
+<text x="118" y="118" font-family="Noto Sans CJK SC, sans-serif" font-size="22" fill="#1F1B16" font-weight="bold" text-anchor="start">浏览选题目</text>
+<text x="118" y="146" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">按难度分级浏览</text>
+<text x="118" y="170" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">190 道题目清单</text>
+<text x="320" y="138" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#B23A2E" font-weight="bold" text-anchor="middle">→</text>
+<rect x="340" y="80" width="260" height="110" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<circle cx="382" cy="112" r="20" fill="#B23A2E"/>
+<text x="382" y="120" font-family="Noto Sans CJK SC, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold" text-anchor="middle">2</text>
+<text x="418" y="118" font-family="Noto Sans CJK SC, sans-serif" font-size="22" fill="#1F1B16" font-weight="bold" text-anchor="start">动手写类型</text>
+<text x="418" y="146" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">纯 TypeScript 类型体操</text>
+<text x="418" y="170" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">零运行时 · 零依赖</text>
+<text x="620" y="138" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#B23A2E" font-weight="bold" text-anchor="middle">→</text>
+<rect x="640" y="80" width="260" height="110" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<circle cx="682" cy="112" r="20" fill="#B23A2E"/>
+<text x="682" y="120" font-family="Noto Sans CJK SC, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold" text-anchor="middle">3</text>
+<text x="718" y="118" font-family="Noto Sans CJK SC, sans-serif" font-size="22" fill="#1F1B16" font-weight="bold" text-anchor="start">提交过判题</text>
+<text x="718" y="146" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">在线判题 OJ 评分</text>
+<text x="718" y="170" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">社区讨论看题解</text></svg>

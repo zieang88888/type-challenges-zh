@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300"><rect x="0" y="0" width="960" height="300" fill="#FAF6EF" stroke="#B23A2E" stroke-width="2" rx="18"/>
+<text x="40" y="55" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#B23A2E" font-weight="bold" text-anchor="start">数据一览 · 数字来自源仓 README 实际抓取统计</text>
+<rect x="40" y="80" width="210" height="190" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="145" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">48,537</text>
+<text x="145" y="195" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">源仓星标 ★</text>
+<text x="145" y="225" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">GitHub Stars 实测</text>
+<rect x="270" y="80" width="210" height="190" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="375" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">190</text>
+<text x="375" y="195" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">类型挑战题目</text>
+<text x="375" y="225" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">README 逐条统计</text>
+<rect x="500" y="80" width="210" height="190" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="605" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">104</text>
+<text x="605" y="195" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">Medium 题目</text>
+<text x="605" y="225" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">占比最高难度</text>
+<rect x="730" y="80" width="210" height="190" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="835" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">5</text>
+<text x="835" y="195" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">难度分级</text>
+<text x="835" y="225" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">warm→extreme</text></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260"><rect x="0" y="0" width="960" height="260" fill="#FAF6EF" stroke="#B23A2E" stroke-width="4" rx="18"/>
+<text x="40" y="40" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#B23A2E" font-weight="bold" text-anchor="start">&gt; type-challenges --zh</text>
+<text x="480" y="108" font-family="Noto Sans CJK SC, sans-serif" font-size="52" fill="#B23A2E" font-weight="bold" text-anchor="middle">TypeScript 类型挑战 · 中文版</text>
+<text x="480" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="22" fill="#1F1B16" font-weight="normal" text-anchor="middle">190 道类型体操题 · 5 档难度 · 在线判题 · 社区共建</text>
+<rect x="40" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="140" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">★ 48,000+</text>
+<rect x="260" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="360" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">190 道题目</text>
+<rect x="480" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="580" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">5 档难度</text>
+<rect x="700" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="800" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">MIT 开源</text>
+<text x="480" y="242" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="middle">基于 type-challenges/type-challenges（MIT License）汉化整理 · 由易到难 · 覆盖 TS 核心类型技巧</text></svg>
