@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero-banner.svg" alt="TypeScript 类型挑战 · 中文版" width="100%">
+</p>
+
 # TypeScript 类型挑战 · 中文版
 
 > **全球最流行的 TypeScript 类型体操题库 · 中文导读版**
