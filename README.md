@@ -5,6 +5,7 @@
 # TypeScript 类型挑战 · 中文版
 
 > **全球最流行的 TypeScript 类型体操题库 · 中文导读版**
+>
 > 源自 GitHub 上 **48,000+ ★** 的 [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)，收录 **190 道类型挑战题**，覆盖 warm-up / easy / medium / hard / extreme **5 档难度**，在线判题 + 社区讨论，是掌握 TypeScript 高级类型系统的必修题库。
 
 ![Stars](https://img.shields.io/badge/GitHub%20Stars-48%2C537-B23A2E?style=flat-square)
@@ -14,6 +15,8 @@
 ![License](https://img.shields.io/badge/License-MIT-B23A2E?style=flat-square)
 
 ---
+
+⭐ 如果对你有帮助，点个 Star 支持中文开源
 
 ## 目录
 
@@ -38,6 +41,7 @@
 源项目收集了 **190 道类型挑战题**：利用 TypeScript 著名的类型系统（README 原文戏称其 Turing Complete，并链接了 [microsoft/TypeScript#14833](https://github.com/microsoft/TypeScript/issues/14833)），把 `type` 当成一门编程语言来玩——实现 `Pick`、`Readonly`、`Omit` 这样的内置工具类型，甚至写出简易 Vue、柯里化、JSON Parser 等硬核类型。所有挑战均在 **strict 模式**下工作，不运行任何代码，纯类型层面解题。
 
 **中文版做了什么：**
+
 - 🗂️ 把源仓 **190 道题** 全量提取为中文索引（[questions-index.md](questions-index.md)），按 5 档难度分组，点开即做题；
 - ⚡ 在本 README 精选 **24 道热门题**，配中文译名 + 一句话考点；
 - 📖 提炼上手路径与 FAQ，让你从零开始进入类型体操的世界。
@@ -143,18 +147,23 @@ type DeepReadonly<T> = T extends (...args: any[]) => any
 ## 常见问题 FAQ
 
 **Q1：我 TypeScript 基础一般，能刷吗？**
+
 可以。建议从 warm-up 和 easy 开始（Hello World、Pick、Readonly 都是入门友好题），配合 [TypeScript 官方手册](https://www.typescriptlang.org/docs/handbook/) 边学边练；medium 开始建议先掌握 `keyof`、`infer`、模板字面量类型与递归类型。
 
 **Q2：题目只写类型不写逻辑？**
+
 对。这是「类型体操」：全部在类型层面实现工具类型，不涉及运行时逻辑。源项目要求所有挑战在 strict 模式下工作。
 
 **Q3：做完怎么验证？**
+
 两种方式：① 在 TypeScript Playground 安装官方插件 `@type-challenges/playground-plugin` 直接判题；② 提交到社区维护的判题服务，并在 GitHub Discussions / Discord 讨论题解。
 
 **Q4：有没有现成题解参考？**
+
 源项目社区有大量公开题解（如 [type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)、[type-gymnastics](https://github.com/g-plane/type-gymnastics) 等，见源仓 README），卡住时先自己琢磨，再对照学习。
 
 **Q5：这个中文版和源项目是什么关系？**
+
 本项目是中文**索引与导读**，题目、判题、讨论都在源项目。所有题目链接均跳转源仓，版权归源项目及社区贡献者。
 
 ## 参与贡献
@@ -174,3 +183,16 @@ type DeepReadonly<T> = T extends (...args: any[]) => any
 - 本仓库代码与文档：**MIT License**（见 [LICENSE](LICENSE)，Copyright (c) 2026 zieang88888）；
 - 源项目 [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)：**MIT License**；
 - 第三方声明与完整署名见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
